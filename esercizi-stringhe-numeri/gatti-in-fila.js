@@ -17,3 +17,8 @@
 
   http://www.imparareaprogrammare.it
 */
+
+
+/*
+questo è il primo esrcizio
+*/
